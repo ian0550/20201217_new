@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- 책 100page(chap02 연습문제 5번) -->
+    <!-- 기본적으로 적용되는 방식이 ... Get 방식 -->
+    <form method="post">
+        <!-- input은 닫는 태그가 없는 태그에 속함 -->
+        <!-- display 속성 : inline, inline-block, block -->
+        <span> 이름 : </span> 
+        <input type="text" id = "name"> <br>
+
+        성별 : <input type="radio" name="gender" checked id = "man"> 
+        <label for="man">남성</label>
+        <input type="radio" name="gender" id = "woman"> 
+        <label for="woman">여성</label> <br>
+
+        속성 :
+        <input type="checkbox" name="hobby" id ="fire"> 
+        <label for="woondong">불</label>
+
+        <input type="checkbox" name="hpbby" id ="leaf" > 
+        <label for="music">풀</label> <!-- 글자 클릭해도 체크되게-->
+
+        <input type="checkbox" name="hobby" id = "water"> 
+        <label for="study">물</label> <br>
+        
+        <input type="submit"> <br>
+    </form>
+</body>
+</html>
