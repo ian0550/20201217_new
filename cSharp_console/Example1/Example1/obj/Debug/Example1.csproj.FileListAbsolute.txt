@@ -1,0 +1,7 @@
+D:\20201217_new\cSharp_console\Example1\Example1\bin\Debug\Example1.exe.config
+D:\20201217_new\cSharp_console\Example1\Example1\bin\Debug\Example1.exe
+D:\20201217_new\cSharp_console\Example1\Example1\bin\Debug\Example1.pdb
+D:\20201217_new\cSharp_console\Example1\Example1\obj\Debug\Example1.csprojAssemblyReference.cache
+D:\20201217_new\cSharp_console\Example1\Example1\obj\Debug\Example1.csproj.CoreCompileInputs.cache
+D:\20201217_new\cSharp_console\Example1\Example1\obj\Debug\Example1.exe
+D:\20201217_new\cSharp_console\Example1\Example1\obj\Debug\Example1.pdb
