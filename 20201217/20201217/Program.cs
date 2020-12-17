@@ -121,6 +121,7 @@ namespace _20201217
             else
             {
                 Console.WriteLine("어느 사분면에도 포함되지 않습니다.");
+                Console.WriteLine("0입니다.");
             }
 
 
