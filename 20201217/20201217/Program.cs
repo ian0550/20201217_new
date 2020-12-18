@@ -11,11 +11,11 @@ namespace _20201217
         static void Main(string[] args)
         {
             int tmp = 0;
-            for (int i = 0; i < 100; i++)
+            for (int nu = 0; nu < 100; nu++)
             {
-                if (i % 3 == 0)
+                if (nu % 3 == 0)
                 {
-                    tmp += i;
+                    tmp += nu;
                 }
 
             }

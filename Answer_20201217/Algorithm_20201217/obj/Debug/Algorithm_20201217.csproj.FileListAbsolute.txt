@@ -1,0 +1,7 @@
+D:\20201217_new\Answer_20201217\Algorithm_20201217\bin\Debug\Algorithm_20201217.exe.config
+D:\20201217_new\Answer_20201217\Algorithm_20201217\bin\Debug\Algorithm_20201217.exe
+D:\20201217_new\Answer_20201217\Algorithm_20201217\bin\Debug\Algorithm_20201217.pdb
+D:\20201217_new\Answer_20201217\Algorithm_20201217\obj\Debug\Algorithm_20201217.csprojAssemblyReference.cache
+D:\20201217_new\Answer_20201217\Algorithm_20201217\obj\Debug\Algorithm_20201217.csproj.CoreCompileInputs.cache
+D:\20201217_new\Answer_20201217\Algorithm_20201217\obj\Debug\Algorithm_20201217.exe
+D:\20201217_new\Answer_20201217\Algorithm_20201217\obj\Debug\Algorithm_20201217.pdb
